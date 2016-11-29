@@ -244,13 +244,19 @@
             window.attachEvent("onload", downloadJSBAtOnload);
         else window.onload = downloadJSBAtOnload;
     </script>
-    <script>
-        // Start midnight
-        $(document).ready(function() {
-            // Change this to the correct selector.
-            $('nav.fixed').midnight();
-        });
+    <script type="text/javascript">
+        function downloadJSCAtOnload() {
+            var element = document.createElement("script");
+            element.src = "start.js";
+            document.body.appendChild(element);
+        }
+        if (window.addEventListener)
+            window.addEventListener("load", downloadJSCAtOnload, false);
+        else if (window.attachEvent)
+            window.attachEvent("onload", downloadJSCAtOnload);
+        else window.onload = downloadJSCAtOnload;
     </script>
+
 </body>
 
 </html>
