@@ -1,0 +1,13 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <path fill="none" id="canvas_background" height="102" width="102" d="M-1 -1 L101 -1 L101 101 L-1 101 Z" class="rZJBWaOQ_0"></path>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke-linecap="null" stroke-linejoin="null" id="svg_6" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="#000" fill="none" d="M99.5,25.5L23.473689,25.5" class="rZJBWaOQ_1"></path>
+  <path stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_7" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="none" d="M83.499998,49.5L7.494681,49.5" class="rZJBWaOQ_2"></path>
+  <path stroke-linecap="null" stroke-linejoin="null" id="svg_9" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="#000" fill="none" d="M103.5,73.5L29.493244,73.5" class="rZJBWaOQ_3"></path>
+ </g>
+<style>.rZJBWaOQ_0{stroke-dasharray:408 410;stroke-dashoffset:409;animation:rZJBWaOQ_draw_0 4300ms ease-in-out 0ms infinite,rZJBWaOQ_fade 4300ms linear 0ms infinite;}.rZJBWaOQ_1{stroke-dasharray:77 79;stroke-dashoffset:78;animation:rZJBWaOQ_draw_1 4300ms ease-in-out 0ms infinite,rZJBWaOQ_fade 4300ms linear 0ms infinite;}.rZJBWaOQ_2{stroke-dasharray:77 79;stroke-dashoffset:78;animation:rZJBWaOQ_draw_2 4300ms ease-in-out 0ms infinite,rZJBWaOQ_fade 4300ms linear 0ms infinite;}.rZJBWaOQ_3{stroke-dasharray:75 77;stroke-dashoffset:76;animation:rZJBWaOQ_draw_3 4300ms ease-in-out 0ms infinite,rZJBWaOQ_fade 4300ms linear 0ms infinite;}@keyframes rZJBWaOQ_draw{100%{stroke-dashoffset:0;}}@keyframes rZJBWaOQ_fade{0%{stroke-opacity:1;}90.69767441860465%{stroke-opacity:1;}100%{stroke-opacity:0;}}@keyframes rZJBWaOQ_draw_0{18.6046511627907%{stroke-dashoffset: 409}20.930232558139537%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes rZJBWaOQ_draw_1{18.6046511627907%{stroke-dashoffset: 78}20.930232558139537%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes rZJBWaOQ_draw_2{18.6046511627907%{stroke-dashoffset: 78}20.930232558139537%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}@keyframes rZJBWaOQ_draw_3{18.6046511627907%{stroke-dashoffset: 76}20.930232558139537%{ stroke-dashoffset: 0;}100%{ stroke-dashoffset: 0;}}</style></svg>
